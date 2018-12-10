@@ -1,2 +1,2 @@
 # activation functions
-> activation functions graph shape compare
+> graph shape compare of activation functions
